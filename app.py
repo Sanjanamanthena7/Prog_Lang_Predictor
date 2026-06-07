@@ -84,8 +84,7 @@ GH Archive
 ### 🎯 Objective
 Identify trending programming languages and analyze their popularity across GitHub repositories over time.
 
-### 👨‍💻 Developed By
-SANJANA MANTHENA
+
 """)
 
 st.sidebar.header("Filters")

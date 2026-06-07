@@ -1,4 +1,4 @@
-requests
-polars
-plotly.express
 streamlit
+pandas
+plotly
+polars
